@@ -1,2 +1,2 @@
-const arr = [4, 4, 5];
+const arr = [4, 4, 10];
 console.log(arr);
